@@ -1,6 +1,6 @@
 # Federated Vision-Language Unlearning with Dual-view Knowledge Distillation
 ## Architecture diagram：
-<img src="figure_1.png" width="480">
+<img src="figure_1.png" >
 
 ## Running：
 
